@@ -1120,4 +1120,4 @@ The __str__() method corrected the department name
 
 <img src="admin_doctors_dep_name_strfunction.png" alt="admin_doctors_dep_name_strfunction_image" width="50%" height="20%"/><br>
 
-1h48
+148
